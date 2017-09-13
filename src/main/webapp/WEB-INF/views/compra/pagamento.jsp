@@ -60,6 +60,13 @@
                     <input id="cpf" type="text" name="cpf" class="form-control">
                 </div>
             </div>
+            
+            <div class="form-group">
+                <div class="col-md-6">
+                    <label for="vencimento">Vencimento do Cartão:</label>
+                    <input id="vencimento" type="text" name="vencimento" class="form-control">
+                </div>
+            </div>
 
 
             <div class="form-group">
